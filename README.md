@@ -1,12 +1,26 @@
 # basic-swift
 A handy reference for basic Swift language concepts.
 
-## Basic Types
+```swift
 
-* String
-* Int
-* Double
-* Float
-* Bool
+// Basic Types
 
-## 
+String
+Int
+Double
+Float
+Bool
+
+// Constants and Variables
+
+let exampleConstant = 0 // Constant
+var exampleVariable = 0 // Variable
+
+
+
+
+```
+
+
+
+
