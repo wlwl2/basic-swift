@@ -4,6 +4,10 @@ A handy reference for basic Swift language concepts.
 https://swift.org/documentation/ but with my own examples so
 that I can practice using the documentation and remember the concepts better.
 
+* https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+* https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
+* https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html
+
 ## Basic Types
 
 * String
